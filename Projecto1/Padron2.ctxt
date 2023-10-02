@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Padron2
+comment1.params=habitante
+comment1.target=void\ annadir(Padron1)
+comment2.params=
+comment2.target=java.util.ArrayList\ getHabitantesPadron()
+comment3.params=
+comment3.target=int\ calcularNumeroHabitantes()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InterfazUsuario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InterfazUsuario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=instruccion
+comment1.target=void\ ejecutar(java.lang.String[])
+comment2.params=padron
+comment2.target=void\ mostrarOficinaPadron(OficinaPadron)
+numComments=3
